@@ -29,7 +29,7 @@
             <li><b>Thông báo</b> - Theme Joe+ 8.0.2 đã có phần thông báo riêng. <i>Cài đặt theme</i> => <i>Thông báo</i>.</li>
             <li><b>Fix lỗi, sau khi edit bài viết hoặc trang thì xảy ra hiện tượng bài viết hoặc trang vừa sửa bị ẩn đi.</b></li>
             <li><b>Cài đặt theme</b> - Lược bớt các tính năng không dùng được và sửa lại đổi chút để đỡ nhàm chán.</li>
-            <li><b>Quảng cáo</b> - Hiện tại có các tuỳ chỉnh <i>Quảng táo</i> như sau:</li>
+            <li><b>Quảng cáo</b> - Hiện tại có các tuỳ chỉnh <i>Quảng cáo</i> như sau:</li>
                     <ol>
                         <li><b>ADS thanh nav</b> - Bên dưới thông báo (PC và Mobile thấy).</li>
                         <li><b>ADS trang chủ</b> - Bên trên bài viết mới, bên dưới bài viết trượt (PC và Mobile thấy).</li>
