@@ -34,9 +34,9 @@
                         <li><b>ADS thanh nav</b> - Bên dưới thông báo (PC và Mobile thấy).</li>
                         <li><b>ADS trang chủ</b> - Bên trên bài viết mới, bên dưới bài viết trượt (PC và Mobile thấy).</li>
                         <li><b>ADS trong bài viết</b> -  Bên dưới thông báo ghi nguồn khi leech bài </li>
-                        <li><b>Đang upate thêm..</b> - Cùng đón chờ nha!</li>
+                        <li><b>Đang update thêm..</b> - Cùng đón chờ nha!</li>
                     </ol>
-            <li><b>Đang upate thêm..</b> - Cùng đón chờ nha!</li>
+            <li><b>Đang update thêm..</b> - Cùng đón chờ nha!</li>
         </ol>
     </span>",
     "update": "2025-03-10 08:00:00"
